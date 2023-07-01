@@ -7,7 +7,6 @@
 <a href="https://github.com/TargetZero1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs&include_all_commits=false,prs&cache_seconds=86400&theme=vue-dark" />
 </a>
-
 <a href="https://github.com/TargetZero1/convoychat">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&theme=vue-dark" />
 </a>
