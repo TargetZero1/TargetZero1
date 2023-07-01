@@ -3,13 +3,13 @@
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark).
 
 
- 🔭 I’m currently working on North Sea Games
- 🌱 I’m currently learning Lua, C# and Unreal Engine
- 🤔 I’m looking for help with Game Development
- 💬 Ask me about ...
- 📫 How to reach me: vijaybrara@gmail.com
- 😄 Pronouns: he/him
- ⚡ Fun fact: Did you know that game developers often use a technique called procedural generation to create vast and realistic game worlds?
+- 🔭 I’m currently working on North Sea Games
+- 🌱 I’m currently learning Lua, C# and Unreal Engine
+- 🤔 I’m looking for help with Game Development
+- 💬 Ask me about ...
+- 📫 How to reach me: vijaybrara@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Did you know that game developers often use a technique called procedural generation to create vast and realistic game worlds?
 
 
 <a href="https://www.linkedin.com/in/vijaybrara-79280b257/" rel="nofollow">
