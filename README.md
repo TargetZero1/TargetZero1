@@ -9,12 +9,10 @@
 </a>
 
 <a href="https://github.com/TargetZero1/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&bg_color=000000&text_color=ffffff" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&theme=vue-dark" />
 </a>
 
-
 <a></a>
-
 
 <p dir="auto">🌎 Check my <a href="https://vijaybrara.com/" rel="nofollow">portfolio</a></p>
 
