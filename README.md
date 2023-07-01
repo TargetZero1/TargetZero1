@@ -2,7 +2,7 @@
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark).
 
-<a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f3cc55684df30a3a4cf71b41f0f22277342227c38aaf53594dc726e4a958c00b/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d7462616b657278266c6162656c3d50726f66696c65253230566965777326636f6c6f723d332669636f6e3d31267072657474793d74727565" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=TargetZero1&amp;label=Profile%20Views&amp;color=3&amp;icon=1&amp;pretty=true" style="max-width: 100%;"></a>
+[![](https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **TargetZero1/TargetZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
