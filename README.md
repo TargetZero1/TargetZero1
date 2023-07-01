@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue-dark_icons=true)
+[![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TargetZero1&theme=vue-dark_icons=true)](https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)
+
 <!--
 **TargetZero1/TargetZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
