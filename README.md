@@ -14,7 +14,7 @@
 
 <a></a>
 
-<p dir="auto">🌎 Check my <a href="https://vijaybrara.com/" rel="nofollow">portfolio</a></p>
+<p dir="auto">🌎 Check my <a href="https://vijaybrara.com/" rel="nofollow">Portfolio</a></p>
 
 <p dir="auto">I'm always working on something, and often too excited about it to stop and update my portfolio</p>
 
@@ -23,10 +23,9 @@
 - 🔭 I’m currently working on North Sea Games
 - 🌱 I’m currently learning Lua, JavaScript and Unreal Engine
 - 🤔 I’m looking for help with Game Development
-- 💬 Ask me about ...
 - 📫 How to reach me: vijaybrara@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know that game developers often use a technique called procedural generation to create vast and realistic game worlds?
+- ⚡ Fun fact: Game developers often use a technique called procedural generation to create vast and realistic game worlds.
 
 
 <div dir="auto">
