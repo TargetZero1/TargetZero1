@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TargetZero1&theme=dark&show_icons=true?theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TargetZero1&?theme=vue-dark)
 <!--
 **TargetZero1/TargetZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
