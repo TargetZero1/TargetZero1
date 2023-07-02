@@ -13,18 +13,21 @@
 
 <a></a>
 
-<p dir="auto">🌎 Check my <a href="https://vijaybrara.com/" rel="nofollow">Portfolio</a></p>
+<p dir="auto">🌎 Explore my captivating <a href="https://vijaybrara.com/" rel="nofollow">Portfolio</a></p>
 
-<p dir="auto">I'm always working on something, and often too excited about it to stop and update my portfolio</p>
+<p dir="auto">Welcome! I'm Vijay, a passionate game developer lost in endless projects. Updating my portfolio? It's an adventure I often neglect. </p>
 
 <p dir="auto">Feel free to reach out and see what I'm up to now <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji></p>
 
-- 🔭 I’m currently working on North Sea Games
-- 🌱 I’m currently learning Lua, JavaScript and Unreal Engine
-- 🤔 I’m looking for help with Game Development
-- 📫 How to reach me: vijaybrara@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Game developers often use a technique called procedural generation to create vast and realistic game worlds.
+
+- 🔭 Currently, I'm crafting immersive experiences at North Sea Games.
+- 🌱 Learning Lua, JavaScript, and Unreal Engine fuels my curiosity.
+- 🤔 Need game dev help? Let's unite our skills!
+- 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: Procedural generation brings game worlds to life!
+
+Get ready for thrilling updates on this game dev journey! 🚀
 
 
 <div dir="auto">
