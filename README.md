@@ -20,7 +20,7 @@
 <p dir="auto">Feel free to reach out and see what I'm up to now <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji></p>
 
 
-- 🔭 Currently, I'm crafting immersive experiences at North Sea Games.
+- 🔭 Currently, I'm crafting immersive experiences at <a href="https://www.northseagames.com/" rel="nofollow">North Sea Games</a>.
 - 🌱 Learning Lua, JavaScript, and Unreal Engine fuels my curiosity.
 - 🤔 Need game dev help? Let's unite our skills!
 - 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
