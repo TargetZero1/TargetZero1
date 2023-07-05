@@ -19,7 +19,7 @@
 
 
 - 🔭 Currently, I'm crafting immersive experiences at <a href="https://www.northseagames.com/" rel="nofollow">North Sea Games</a>.
-- 🌱 Learning Lua, JavaScript, and Unreal Engine fuels my curiosity.
+- 🌱 Learning Lua, Roblox Studio, and Unreal Engine fuels my curiosity.
 - 🤔 Need game dev help? Let's unite our skills!
 - 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
 - 😄 Pronouns: he/him.
