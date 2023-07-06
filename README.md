@@ -39,4 +39,6 @@ Get ready for thrilling updates on this game dev journey! 🚀
 
 <h2 dir="auto"></h2>
 
-[![](https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&color=3&icon=1&pretty=true" />
+</a>
