@@ -40,5 +40,5 @@ Get ready for thrilling updates on this game dev journey! 🚀
 <h2 dir="auto"></h2>
 
 <p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow">
-  <img src="https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&color=3&icon=1&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&cache_seconds=600&color=3&icon=1&pretty=true" />
 </a></p> 
