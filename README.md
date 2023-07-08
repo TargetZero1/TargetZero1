@@ -18,7 +18,7 @@
 <p dir="auto">Feel free to reach out and see what I'm up to now </p>
 
 
-- 🔭 Currently, I'm crafting immersive experiences at <a href="" rel="nofollow">Roblox & Unity</a>.
+- 🔭 Currently, I'm crafting immersive experiences in Roblox & Unity.
 - 🌱 Learning Lua, Roblox Studio, and Unity fuels my curiosity.
 - 🤔 Need game dev help? Let's unite our skills!
 - 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
