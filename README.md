@@ -4,7 +4,7 @@
 
 <p dir="auto">Welcome! I'm Vijay, a passionate game developer lost in endless projects. Explore my captivating <a href="https://vijaybrara.com/" rel="nofollow">Portfolio</a>, It's an adventure I often neglect. </p>
 
-<p dir="auto">💻 I'm currently working at <a href="" rel="nofollow"></a>, where we harness the power of Roblox to unleash limitless imagination⚡️</p>
+<p dir="auto">💻 I'm currently working at <a href="" rel="nofollow">None</a>, where we harness the power of Roblox to unleash limitless imagination⚡️</p>
 
 <a href="https://github.com/TargetZero1/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs&include_all_commits=true,prs&cache_seconds=100&theme=vue-dark" />
@@ -18,7 +18,7 @@
 <p dir="auto">Feel free to reach out and see what I'm up to now </p>
 
 
-- 🔭 Currently, I'm crafting immersive experiences at <a href="" rel="nofollow"></a>.
+- 🔭 Currently, I'm crafting immersive experiences at <a href="" rel="nofollow">Roblox & Unity</a>.
 - 🌱 Learning Lua, Roblox Studio, and Unity fuels my curiosity.
 - 🤔 Need game dev help? Let's unite our skills!
 - 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
