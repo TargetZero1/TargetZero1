@@ -19,7 +19,7 @@
 
 
 - 🔭 Currently, I'm crafting immersive experiences in Roblox & Unity.
-- 🌱 Learning Lua, Roblox Studio, and Unity fuels my curiosity.
+- 🌱 Learning Lua, C#, Roblox Studio, and Unity fuels my curiosity.
 - 🤔 Need game dev help? Let's unite our skills!
 - 📫 Reach me at vijaybrara@gmail.com. Exciting updates await!
 - 😄 Pronouns: he/him.
