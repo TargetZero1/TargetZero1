@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Vijay%20Brara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20Roblox&descAlignY=55&descAlign=60&stroke=000000&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Vijay%20Brara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20Roblox&descAlignY=55&descAlign=60&stroke=000000&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+immersive+worlds+in+Roblox;Crafting+experiences+with+Unity+AR;Leveling+up+one+commit+at+a+time;Welcome+to+my+dev+space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Building+immersive+worlds+in+Roblox;Crafting+experiences+with+Unity+AR;Leveling+up+one+commit+at+a+time;Welcome+to+my+dev+space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
