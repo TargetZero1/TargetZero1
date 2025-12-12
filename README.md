@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Vijay%20Brara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20Roblox&descAlignY=55&descAlign=60&stroke=000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Vijay%20Brara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20Roblox&descAlignY=55&descAlign=60&stroke=000000&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,lua,roblox,blender,git,github,vscode,laravel,php,mysql,ps&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,lua,blender,git,github,vscode,laravel,php,mysql,ps&perline=12&theme=dark" />
   </a>
 </div>
 
@@ -46,22 +46,11 @@
 
 <h3 align="center">📊 Developer Stats</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/TargetZero1">
-          <img src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/TargetZero1">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TargetZero1&theme=tokyonight&hide_border=true" alt="TargetZero1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TargetZero1&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <br/>
