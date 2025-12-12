@@ -1,44 +1,71 @@
-<h1 dir="auto"><a id="user-content-hey-there-feel-free-to-check-out-what-ive-been-up-to" class="anchor" aria-hidden="true" href="#hey-there-feel-free-to-check-out-what-ive-been-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hey there, feel free to check out what I've been up to!</h1>
-
-<h2 dir="auto"><a id="user-content-game-developer" class="anchor" aria-hidden="true" href="#full-stack-software-engineer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Game Developer</h2>
-
-<p dir="auto">Welcome! I'm Vijay, a passionate game developer lost in endless projects. Explore my captivating <a href="https://vijaybrara.com/" rel="nofollow">Portfolio</a>, It's an adventure I often neglect. </p>
-
-<p dir="auto">💻 I'm currently working at <a href="https://www.northseagames.com/" rel="nofollow">North Sea Games</a>, where we harness the power of Roblox to unleash limitless imagination⚡️</p>
-
-<a href="https://github.com/TargetZero1/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&hide=contribs&include_all_commits=true,prs&cache_seconds=100&theme=vue-dark" />
-</a>
-<a href="https://github.com/TargetZero1/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&cache_seconds=100&layout=compact&theme=vue-dark" />
-</a>
-
-<a></a>
-
-<p dir="auto">Feel free to reach out and see what I'm up to now </p>
-
-
-- 🔭 Currently, I'm crafting immersive experiences in Roblox & Unity.
-- 🌱 Learning Lua, C#, Roblox Studio, and Unity fuels my curiosity.
-- 🤔 Need game dev help? Let's unite our skills!
-- 📫 Reach me at vijaybrara@gmail.com. Excited to collaborate!
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Procedural generation brings game worlds to life!
-
-Get ready for thrilling updates on this game dev journey! 🚀
-
-<div dir="auto">
-    <a href="https://www.linkedin.com/in/vijaybrara-79280b257/" rel="nofollow">
-    <img src="https://github.com/tbakerx/tbakerx/raw/main/assets/twitter-green.png" alt="Follow me on twitter" width="24" height="24" style="max-width: 100%;">
-    </a>
-     <a href="" rel="nofollow">
-        <img src="https://github.com/tbakerx/tbakerx/raw/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24" style="max-width: 100%;">
-    </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Vijay%20Brara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20Roblox&descAlignY=55&descAlign=60&stroke=000000" width="100%"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+immersive+worlds+in+Roblox;Crafting+experiences+with+Unity+AR;Leveling+up+one+commit+at+a+time;Welcome+to+my+dev+space!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
-<h2 dir="auto"></h2>
+<div align="center">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=TargetZero1&label=Profile%20Views&color=3&icon=1&pretty=true" />
-</a>
+  <a href="https://vijaybrara.com/">
+    <img src="https://img.shields.io/badge/Portfolio-vijaybrara.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vijaybrara-79280b257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vijaybrara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+
+> I'm **Vijay**, a passionate game developer lost in endless projects. I currently work at **[North Sea Games](https://www.northseagames.com/)**, harnessing the power of Roblox to unleash limitless imagination ⚡️
+
+- 🔭 **Current Quest:** Crafting immersive experiences in Roblox & Unity.
+- 🌱 **Skill Tree:** Learning `Lua`, `C#`, `Roblox Studio`, and `Unity`.
+- ⚡ **Fun Fact:** Procedural generation brings game worlds to life!
+- 🤝 **Collaboration:** Need game dev help? Let's unite our skills!
+
+<br/>
+
+<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,lua,roblox,blender,git,github,vscode,laravel,php,mysql,ps&perline=12&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">📊 Developer Stats</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/TargetZero1">
+          <img src="https://github-readme-stats.vercel.app/api?username=TargetZero1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/TargetZero1">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TargetZero1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TargetZero1&theme=tokyonight&hide_border=true" alt="TargetZero1" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TargetZero1&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
