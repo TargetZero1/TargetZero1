@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=VIJAY+BRARA;FULL+STACK+ENGINEER;GAME+DEVELOPER;AR+%2F+VR+ARCHITECT" alt="Glitch Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=VIJAY+BRARA;FULL+STACK+ENGINEER;GAME+DEVELOPER;AR+%2F+WEB+DEVELOPER" alt="Glitch Header" />
 </div>
 
 <div align="center">
