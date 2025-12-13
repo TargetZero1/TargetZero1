@@ -16,7 +16,7 @@
 
 <br/>
 
-## ⚡ Engineering Narrative
+## ⚡ Unity 
 
 > **"Code is the clay, and the engine is my kiln."**
 
@@ -29,7 +29,7 @@ I am a **Game Developer** and **Software Engineer** specializing in Roblox Devel
 
 <br/>
 
-## 📊 The New "Command Center" (New Assets)
+## Command Center HQ
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TargetZero1&theme=tokyonight" alt="Profile Details" />
