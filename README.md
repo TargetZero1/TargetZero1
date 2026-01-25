@@ -6,13 +6,13 @@
   <a href="https://vijaybrara.com/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&color=101010&borderColor=00F0FF" />
   </a>
-  <a href="https://www.linkedin.com/in/vijaybrara-79280b257/">
+  <a href="https://www.linkedin.com/in/vijaybrara/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=101010&borderColor=00F0FF" />
   </a>
   <a href="https://discord.com/users/328461326463991808">
     <img src="https://img.shields.io/badge/DISCORD-ADD_ME-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" />
   </a>
-</div>
+</div>  
 
 <br/>
 
